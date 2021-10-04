@@ -1,33 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "Fibonacci.Web/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Fibonacci.Web.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Fibonacci.Web.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "Fibonacci.Web/1.0.0": {
-      "type": "project",
-      "path": "../Fibonacci.Web/Fibonacci.Web.csproj",
-      "msbuildProject": "../Fibonacci.Web/Fibonacci.Web.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "Fibonacci.Web >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "/root/.nuget/packages/": {}
@@ -53,11 +31,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci.Web/Fibonacci.Web.csproj": {
-              "projectPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci.Web/Fibonacci.Web.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -84,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/6.0.100-rc.1.21458.32/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/142/sdk/6.0.100-rc.1.21458.32/RuntimeIdentifierGraph.json"
       }
     }
   }
