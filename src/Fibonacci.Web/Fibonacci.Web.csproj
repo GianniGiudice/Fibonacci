@@ -7,9 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="..\Fibonacci\Fibonacci.csproj">
-      <Link>Fibonacci.csproj</Link>
-    </Content>
+    <ProjectReference Include="..\Fibonacci\Fibonacci.csproj" />
   </ItemGroup>
 
 </Project>
