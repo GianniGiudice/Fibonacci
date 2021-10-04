@@ -3,19 +3,43 @@
   "targets": {
     "net6.0": {
       "Gianni.Giudice.Fibonacci/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "type": "package",
         "compile": {
-          "bin/placeholder/Gianni.Giudice.Fibonacci.dll": {}
+          "lib/net6.0/Fibonacci.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Gianni.Giudice.Fibonacci.dll": {}
+          "lib/net6.0/Fibonacci.dll": {}
+        }
+      },
+      "Fibonacci/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Gianni.Giudice.Fibonacci": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Fibonacci.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fibonacci.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Gianni.Giudice.Fibonacci/1.0.0": {
+      "sha512": "YwRnoEB2nR1m8Csbvg07J1Mfw4Hk0D6v0xqsrsigfUcu9xhZ9wSVpjSdTfKQjUjNEDTCx2IPjYdLY4FxYampug==",
+      "type": "package",
+      "path": "gianni.giudice.fibonacci/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gianni.giudice.fibonacci.1.0.0.nupkg.sha512",
+        "gianni.giudice.fibonacci.nuspec",
+        "lib/net6.0/Fibonacci.dll"
+      ]
+    },
+    "Fibonacci/1.0.0": {
       "type": "project",
       "path": "../Fibonacci/Fibonacci.csproj",
       "msbuildProject": "../Fibonacci/Fibonacci.csproj"
@@ -23,6 +47,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Fibonacci >= 1.0.0",
       "Gianni.Giudice.Fibonacci >= 1.0.0"
     ]
   },

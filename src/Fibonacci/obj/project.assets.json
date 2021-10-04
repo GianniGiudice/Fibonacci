@@ -1,11 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Gianni.Giudice.Fibonacci/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Fibonacci.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Fibonacci.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Gianni.Giudice.Fibonacci/1.0.0": {
+      "sha512": "YwRnoEB2nR1m8Csbvg07J1Mfw4Hk0D6v0xqsrsigfUcu9xhZ9wSVpjSdTfKQjUjNEDTCx2IPjYdLY4FxYampug==",
+      "type": "package",
+      "path": "gianni.giudice.fibonacci/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gianni.giudice.fibonacci.1.0.0.nupkg.sha512",
+        "gianni.giudice.fibonacci.nuspec",
+        "lib/net6.0/Fibonacci.dll"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Gianni.Giudice.Fibonacci >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/root/.nuget/packages/": {}
@@ -14,7 +39,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/Fibonacci.csproj",
-      "projectName": "Gianni.Giudice.Fibonacci",
+      "projectName": "Fibonacci",
       "projectPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/Fibonacci.csproj",
       "packagesPath": "/root/.nuget/packages/",
       "outputPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/",
@@ -43,6 +68,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Gianni.Giudice.Fibonacci": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

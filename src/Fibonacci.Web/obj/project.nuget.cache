@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NWJRqXD8wKD4trkz/bZcaUjZGQ/YgC+mFrvn9Ue3UfahlZDUsu0NynWLRstiN0vkiyoum40fn20+9nARo7z/gg==",
+  "dgSpecHash": "XHSk86reGMljtuEd0V/S0Fi5/Inex0BL4hDELnKtMKGJjmT7YQ/loYhImzqA5lWO9zvGFxEJJ40TPqDUXfG1EA==",
   "success": true,
   "projectFilePath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci.Web/Fibonacci.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/gianni.giudice.fibonacci/1.0.0/gianni.giudice.fibonacci.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

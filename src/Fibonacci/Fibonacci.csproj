@@ -4,7 +4,10 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>Gianni.Giudice.Fibonacci</PackageId>
   </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Gianni.Giudice.Fibonacci" Version="1.0.0" />
+  </ItemGroup>
 
 </Project>

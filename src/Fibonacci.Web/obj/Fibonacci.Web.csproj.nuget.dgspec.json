@@ -73,7 +73,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/Fibonacci.csproj",
-        "projectName": "Gianni.Giudice.Fibonacci",
+        "projectName": "Fibonacci",
         "projectPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/Fibonacci.csproj",
         "packagesPath": "/root/.nuget/packages/",
         "outputPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/",
@@ -102,6 +102,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Gianni.Giudice.Fibonacci": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
