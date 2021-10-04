@@ -64,7 +64,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/Fibonacci.csproj",
-        "projectName": "Fibonacci",
+        "projectName": "Gianni.Giudice.Fibonacci",
         "projectPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/Fibonacci.csproj",
         "packagesPath": "/root/.nuget/packages/",
         "outputPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/",

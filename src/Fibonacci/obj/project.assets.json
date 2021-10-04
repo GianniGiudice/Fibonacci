@@ -14,7 +14,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/Fibonacci.csproj",
-      "projectName": "Fibonacci",
+      "projectName": "Gianni.Giudice.Fibonacci",
       "projectPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/Fibonacci.csproj",
       "packagesPath": "/root/.nuget/packages/",
       "outputPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/142/sdk/6.0.100-rc.1.21458.32/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/6.0.100-rc.1.21458.32/RuntimeIdentifierGraph.json"
       }
     }
   }
