@@ -1,0 +1,13 @@
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/bin/Debug/net6.0/Fibonacci.deps.json
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/bin/Debug/net6.0/Fibonacci.dll
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/bin/Debug/net6.0/ref/Fibonacci.dll
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/bin/Debug/net6.0/Fibonacci.pdb
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/Fibonacci.GlobalUsings.g.cs
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.AssemblyReference.cache
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfoInputs.cache
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfo.cs
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/Fibonacci.dll
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/ref/Fibonacci.dll
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb
