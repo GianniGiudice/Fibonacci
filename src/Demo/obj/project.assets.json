@@ -5,12 +5,28 @@
       "Fibonacci/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Fibonacci.Web": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Fibonacci.dll": {}
         },
         "runtime": {
           "bin/placeholder/Fibonacci.dll": {}
         }
+      },
+      "Fibonacci.Web/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Fibonacci.Web.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fibonacci.Web.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -19,6 +35,11 @@
       "type": "project",
       "path": "../Fibonacci/Fibonacci.csproj",
       "msbuildProject": "../Fibonacci/Fibonacci.csproj"
+    },
+    "Fibonacci.Web/1.0.0": {
+      "type": "project",
+      "path": "../Fibonacci.Web/Fibonacci.Web.csproj",
+      "msbuildProject": "../Fibonacci.Web/Fibonacci.Web.csproj"
     }
   },
   "projectFileDependencyGroups": {

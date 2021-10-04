@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="..\Fibonacci\Fibonacci.csproj">
+      <Link>Fibonacci.csproj</Link>
+    </Content>
+  </ItemGroup>
+
 </Project>
