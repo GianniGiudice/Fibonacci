@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/Fibonacci.csproj",
         "projectName": "Fibonacci",
         "projectPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/Fibonacci.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/gianni/.nuget/packages/",
         "outputPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/gianni/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -41,6 +41,16 @@
             "Gianni.Giudice.Fibonacci": {
               "target": "Package",
               "version": "[1.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
             }
           },
           "imports": [
@@ -58,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/6.0.100-rc.1.21458.32/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/gianni/dotnet/sdk/6.0.100-rc.1.21463.6/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,3 +11,5 @@
 /home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/Fibonacci.dll
 /home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/ref/Fibonacci.dll
 /home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/bin/Debug/net6.0/Fibonacci.runtimeconfig.json
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/obj/Debug/net6.0/Fibonacci.genruntimeconfig.cache
