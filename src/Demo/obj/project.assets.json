@@ -5741,7 +5741,7 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/gianni/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5749,11 +5749,11 @@
       "projectUniqueName": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Demo/Demo.csproj",
       "projectName": "Demo",
       "projectPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Demo/Demo.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/gianni/.nuget/packages/",
       "outputPath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Demo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/gianni/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -5795,7 +5795,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/6.0.100-rc.1.21458.32/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/gianni/dotnet/sdk/6.0.100-rc.1.21463.6/RuntimeIdentifierGraph.json"
       }
     }
   }
