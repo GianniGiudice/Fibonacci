@@ -1,0 +1,8 @@
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/WebApi/obj/Debug/net6.0/WebApi.GlobalUsings.g.cs
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
