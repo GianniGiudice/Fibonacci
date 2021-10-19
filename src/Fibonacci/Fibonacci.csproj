@@ -2,21 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
+    <PackageId>Gianni.Giudice.Fibonacci</PackageId>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-  
+
   <ItemGroup>
-    <PackageReference Include="Gianni.Giudice.Fibonacci" Version="1.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.10">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.10" />
-  </ItemGroup>
-  
-  <ItemGroup>
-    <Folder Include="Migrations" />
   </ItemGroup>
 
 </Project>

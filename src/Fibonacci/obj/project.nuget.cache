@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "HiXTZC4v/gEYUVPx9ppeezLpPIT3S/bXvSBv5/+2ml4NhLcKIxtcHi6XUnoWLtXKtqmxXaOaQwM3yvRw+QPNVQ==",
+  "dgSpecHash": "lBJ9bRw7nG906LhvmbEBPsCFFxkGl9UMN/p+RJC8BJm/vx4c5EZ9EZQlcyExgodTgYIruzt8HTezbbpETKzjow==",
   "success": true,
   "projectFilePath": "/home/gianni/Documents/M2/S1/DotNet/Fibonacci/src/Fibonacci/Fibonacci.csproj",
   "expectedPackageFiles": [
-    "/home/gianni/.nuget/packages/gianni.giudice.fibonacci/1.0.0/gianni.giudice.fibonacci.1.0.0.nupkg.sha512",
     "/home/gianni/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/gianni/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/gianni/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",
